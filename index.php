@@ -254,7 +254,7 @@ We hosted and celebrated a successful Steppin Out event in Bangalore." </p>
 			<div class="col-12 col-md-6 col-lg-3">
 				<div class="card text-center">
 					<div class="card-body">
-						<img src="img1.jpg" alt="" class="img-fluid rounded-circle">
+						<img src="images/img1.jpg" alt="" class="img-fluid rounded-circle">
 						<h3 class="card-title py-2">
 							Sonali Mehta
 						</h3>
@@ -272,7 +272,7 @@ We hosted and celebrated a successful Steppin Out event in Bangalore." </p>
 			<div class="col-12 col-md-6 col-lg-3">
 				<div class="card text-center">
 					<div class="card-body">
-						<img src="img3.jpg" alt="" class="img-fluid rounded-circle">
+						<img src="images/img3.jpg" alt="" class="img-fluid rounded-circle">
 						<h3 class="card-title py-2">
 							Anand Mahindra
 						</h3>
@@ -295,7 +295,7 @@ We hosted and celebrated a successful Steppin Out event in Bangalore." </p>
 			<div class="col-12 col-md-6 col-lg-3">
 				<div class="card text-center">
 					<div class="card-body">
-						<img src="img4.jpg.jpg" alt="" class="img-fluid rounded-circle">
+						<img src="images/img4.jpg.jpg" alt="" class="img-fluid rounded-circle">
 						<h3 class="card-title py-2">
 							Rashi Mittal
 						</h3>
@@ -313,7 +313,7 @@ We hosted and celebrated a successful Steppin Out event in Bangalore." </p>
 			<div class="col-12 col-md-6 col-lg-3">
 				<div class="card text-center">
 					<div class="card-body">
-						<img src="img5.jpg" alt="" class="img-fluid rounded-circle">
+						<img src="images/img5.jpg" alt="" class="img-fluid rounded-circle">
 						<h3 class="card-title py-2">
 							Sneha Singhania
 						</h3>
